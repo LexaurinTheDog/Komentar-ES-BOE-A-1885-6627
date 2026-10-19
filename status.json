@@ -1,0 +1,62 @@
+{
+  "stage": "drafted_technical_validation",
+  "title": "Comentario al Código de Comercio español",
+  "repo": "Komentar-ES-BOE-A-1885-6627",
+  "decisive_date": "2026-10-19",
+  "authoring_started": "2026-10-19",
+  "completed_at": "2026-10-19T18:00:59.131991+00:00",
+  "total_units": 372,
+  "completed_units": 372,
+  "numbered_code_positions": 957,
+  "promulgating_decree_articles": 4,
+  "chapters": 19,
+  "commentary_chars": 272509,
+  "source_checks": {
+    "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627",
+    "verified_at": "2026-10-19T17:59:55.267691+00:00",
+    "http200_sources": 12,
+    "xml_html_unit_matches": 372,
+    "expected_current_units": 372,
+    "missing_ids": 0,
+    "duplicate_ids": 0,
+    "excluded_expired_blocks": 445,
+    "latest_published_amendment": "2023-05-09",
+    "latest_commencement": "2024-05-09",
+    "original_intake_sha256": "3953b8716b32dfdc19d4ccdcbf22409cd2617d3e29e65bb47e215ce7a3e32dd4",
+    "evidence": "sources/verification.json"
+  },
+  "case_law_sources": [
+    {
+      "court": "Tribunal Constitucional",
+      "date": "1988-06-09",
+      "ecli": "ECLI:ES:TC:1988:113",
+      "card": "cases/TC-113-1988.md"
+    },
+    {
+      "court": "Tribunal Constitucional",
+      "date": "2010-10-18",
+      "ecli": "ECLI:ES:TC:2010:61",
+      "card": "cases/TC-61-2010.md"
+    }
+  ],
+  "validation": {
+    "repo": "Komentar-ES-BOE-A-1885-6627",
+    "units": 372,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 272509,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "coverage_result": "372 unique official blocks; every code number 1-955 plus 38bis and 43bis represented once, including grouped repeals; no annexes",
+  "remaining_units": [],
+  "unresolved_material_source_blockers": [],
+  "remaining_limitations": [
+    "Independent second pass pending; author review is not independent review.",
+    "Case-law research selective and constitutional only; no exhaustive Supreme Court substantive coverage.",
+    "Concise technical and historical provisions; sectoral banking, labour, concessions, international and securities systems not exhaustively researched.",
+    "First API HTTP 400 error body not preserved; successful full XML HTTP 200 response validated and retained."
+  ],
+  "independent_review": false,
+  "publication": "Local only; no push or external submission"
+}

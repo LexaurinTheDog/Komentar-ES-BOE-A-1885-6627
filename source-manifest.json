@@ -1,0 +1,152 @@
+{
+  "title": "Código de Comercio — BOE-A-1885-6627",
+  "authoring_started": "2026-10-19",
+  "decisive_date": "2026-10-19",
+  "checked_at": "2026-10-19T17:59:55.267691+00:00",
+  "official_source": "BOE",
+  "initial_commencement": "1886-01-01",
+  "first_available_consolidation": "1996-11-01; not the 1885 original",
+  "official_metadata_updated_at": "20251216T102453Z",
+  "latest_published_amendment": "20230509",
+  "latest_amended_blocks": [
+    {
+      "id_norma": "BOE-A-2023-11022",
+      "fecha_publicacion": "20230509",
+      "fecha_vigencia": "20240509",
+      "block": "art17"
+    }
+  ],
+  "current_latest_commencement": "2024-05-09",
+  "commencement_evidence": "sources/reform-2023.xml art.35 and disposición final 18.6; metadata.xml analysis and selected art17 version fecha_vigencia=20240509",
+  "intake_comparison": "Metadata update timestamp unchanged from intake 20251216T102453Z; no newer publication in current official metadata/text. Historical expired blocks present in intake are filtered, not treated as later substantive amendments.",
+  "consolidation_status": "Finalizado; informative consolidation, official amending publications control",
+  "records": [
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1885-6627/texto",
+      "path": "sources/boe-api.xml",
+      "accessed_at": "2026-10-19T17:31:38+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "465ece190e3a3c9c9976627de85487c2b4a7681bb6d5ea6f7045aa736ea08c7e",
+      "bytes": 963906,
+      "expected_format_validation": "XML parsed; response status 200 or BOE documento root; substantive paragraph elements present",
+      "headers": "sources/boe-api.headers"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1885-6627",
+      "path": "sources/metadata.xml",
+      "accessed_at": "2026-10-19T17:31:53+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "3c9d5648a6cfaeb475abfdef0645d3d7480488a8de21ede32162641d49b1d66f",
+      "bytes": 1086826,
+      "expected_format_validation": "XML parsed; response status 200 or BOE documento root; substantive paragraph elements present",
+      "headers": "sources/metadata.headers"
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627",
+      "path": "sources/boe-current.html",
+      "accessed_at": "2026-10-19T17:31:41+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "4358aea9fc73af5fd64806e3da936bf4177ab114e7760456af5d5a7161197a4e",
+      "bytes": 683465,
+      "expected_format_validation": "HTML with expected act/article anchors or court ECLI, grounds and operative decision; not anti-bot page",
+      "headers": "sources/boe-current.headers"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2023-11022",
+      "path": "sources/reform-2023.xml",
+      "accessed_at": "2026-10-19T17:32:36+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "3f9e984c9c0b89e35f7f0cf869c3fb67c91bb4b887429ab7c0089fb3d66fbe94",
+      "bytes": 725654,
+      "expected_format_validation": "XML parsed; response status 200 or BOE documento root; substantive paragraph elements present",
+      "headers": "sources/reform-2023.headers"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-17989",
+      "path": "sources/law11-2018.xml",
+      "accessed_at": "2026-10-19T17:36:58+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "4030862f44e789a7e6cfa3d38bf510e63a19b6a8f0be3b2a53fc705042642b54",
+      "bytes": 103064,
+      "expected_format_validation": "XML parsed; response status 200 or BOE documento root; substantive paragraph elements present",
+      "headers": "sources/law11-2018.headers"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1999-24786",
+      "path": "sources/law55-1999.xml",
+      "accessed_at": "2026-10-19T17:37:03+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "e7bf0a896b44f2d7ff64d33130af56deced0ef9d74f182f17a6c23d3a1490f1e",
+      "bytes": 574983,
+      "expected_format_validation": "XML parsed; response status 200 or BOE documento root; substantive paragraph elements present",
+      "headers": "sources/law55-1999.headers"
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/1054",
+      "path": "sources/tc113-1988.html",
+      "accessed_at": "2026-10-19T17:32:52+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "b36f48f19a1fcee93a2051d696b716feb77750dfc8998f30b6d194fcfd1b08da",
+      "bytes": 49941,
+      "expected_format_validation": "HTML with expected act/article anchors or court ECLI, grounds and operative decision; not anti-bot page",
+      "headers": "sources/tc113-1988.headers"
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/6700",
+      "path": "sources/tc61-2010.html",
+      "accessed_at": "2026-10-19T17:54:48+00:00",
+      "access_time_basis": "Local response body write completion; HTTP Date retained in headers",
+      "http_status": 200,
+      "sha256": "7a39dc647945e912683d48117dc7479925b789e39a352cb6cc7baf778a0f1392",
+      "bytes": 56670,
+      "expected_format_validation": "HTML with expected act/article anchors or court ECLI, grounds and operative decision; not anti-bot page",
+      "headers": "sources/tc61-2010.headers"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7391",
+      "path": "sources/jurisdiccion-voluntaria.xml",
+      "accessed_at": "2026-10-19T17:53:06.317317+00:00",
+      "http_status": 200,
+      "sha256": "ec4217db67f771807f87c9d2f5253cf2ce24eaf922b4488c498b8a2900cced76",
+      "format_validated": "XML response/status/code=200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-10544",
+      "path": "sources/sociedades-capital.xml",
+      "accessed_at": "2026-10-19T17:53:07.408001+00:00",
+      "http_status": 200,
+      "sha256": "6e9739f50d74e220a4a2b5d7f5724ef4144a158b7d0d896924ffefaec104e7e0",
+      "format_validated": "XML response/status/code=200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10074",
+      "path": "sources/emprendedores.xml",
+      "accessed_at": "2026-10-19T17:53:08.214649+00:00",
+      "http_status": 200,
+      "sha256": "19b1bc91b50ceb74a719eb9e35d13fc661f24c787df63922ac04d719aa4053aa",
+      "format_validated": "XML response/status/code=200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1908-5579",
+      "path": "sources/usura.xml",
+      "accessed_at": "2026-10-19T17:53:08.515490+00:00",
+      "http_status": 200,
+      "sha256": "8514b82d4ad3836fc775b5dfec57084b2a295dfba36c68b5bfb6085d2d21f27b",
+      "format_validated": "XML response/status/code=200"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1885-6627/texto",
+      "http_status": 400,
+      "reason": "Initial request omitted Accept: application/xml; retried with official XML Accept. Initial error body not retained; successful full response retained and validated."
+    }
+  ]
+}

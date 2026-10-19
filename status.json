@@ -61,9 +61,10 @@
   ],
   "independent_review": true,
   "publication": "Local only; no push or external submission",
-  "review_scope": "Second process, all372 units; no external professional approval",
-  "second_pass_completed_at": "2026-10-19T18:10:02.580512+00:00",
+  "review_scope": "Second process, all 372 units; no external professional approval",
+  "second_pass_completed_at": "2026-10-19T18:10:56.653243+00:00",
   "reviewed_units": 372,
   "review_result": "review-result.json",
-  "review_stage": "second_pass_complete"
+  "review_stage": "second_pass_complete",
+  "second_pass_complete": true
 }

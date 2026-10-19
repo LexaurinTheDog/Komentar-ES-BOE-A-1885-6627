@@ -86,5 +86,17 @@
   "decisive_date": "2026-10-19",
   "review_basis": "Fresh second process; every commentary and selected statutory text read in ordered batches, then external sources and both complete court decisions checked.",
   "ledger": "second-pass-ledger.json",
-  "source_checks": "second-pass-source-check.json"
+  "source_checks": "second-pass-source-check.json",
+  "validation": {
+    "repo": "Komentar-ES-BOE-A-1885-6627",
+    "units": 372,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 275397,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "coverage_ok": true,
+  "links_ok": true,
+  "completed_at": "2026-10-19T18:10:56.653243+00:00"
 }

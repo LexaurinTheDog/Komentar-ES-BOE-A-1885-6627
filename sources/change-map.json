@@ -1,0 +1,2710 @@
+{
+  "original_source_path": "/Volumes/LaCie/law-intake/eu/es/legislacion/1885/BOE-A-1885-6627.md",
+  "preserved_copy": "sources/intake-20261002.md",
+  "original_sha256": "3953b8716b32dfdc19d4ccdcbf22409cd2617d3e29e65bb47e215ce7a3e32dd4",
+  "canonical_path": "sources/canonical.md",
+  "canonical_sha256": "8c259ba4c91a6f864faf4133d7ad0aef2b3655921e0e0ca75b6dd30f7496bc68",
+  "substantive_new_amendments_since_intake": [],
+  "evidence": "Same official update key and latest amending publication; current text selected from official XML and matched to independent current HTML structure.",
+  "repair": "Intake contains historical blocks as well as present consolidation. Canonical extraction filters fecha_caducidad and selects only effective versions. Does not concatenate historical versions.",
+  "expired_blocks_removed_from_current_text": [
+    {
+      "id": "a151",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 151"
+    },
+    {
+      "id": "a152",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 152"
+    },
+    {
+      "id": "a153",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 153"
+    },
+    {
+      "id": "a154",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 154"
+    },
+    {
+      "id": "a155",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 155"
+    },
+    {
+      "id": "a156",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 156"
+    },
+    {
+      "id": "a157",
+      "tipo": "precepto",
+      "fecha_caducidad": "20100703",
+      "titulo": "Art 157"
+    },
+    {
+      "id": "a349",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 349"
+    },
+    {
+      "id": "a350",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 350"
+    },
+    {
+      "id": "a351",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 351"
+    },
+    {
+      "id": "a352",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 352"
+    },
+    {
+      "id": "a353",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 353"
+    },
+    {
+      "id": "a354",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 354"
+    },
+    {
+      "id": "a355",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 355"
+    },
+    {
+      "id": "a356",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 356"
+    },
+    {
+      "id": "a357",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 357"
+    },
+    {
+      "id": "a358",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 358"
+    },
+    {
+      "id": "a359",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 359"
+    },
+    {
+      "id": "a360",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 360"
+    },
+    {
+      "id": "a361",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 361"
+    },
+    {
+      "id": "a362",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 362"
+    },
+    {
+      "id": "a363",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 363"
+    },
+    {
+      "id": "a364",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 364"
+    },
+    {
+      "id": "a365",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 365"
+    },
+    {
+      "id": "a366",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 366"
+    },
+    {
+      "id": "a367",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 367"
+    },
+    {
+      "id": "a368",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 368"
+    },
+    {
+      "id": "a369",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 369"
+    },
+    {
+      "id": "a370",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 370"
+    },
+    {
+      "id": "a371",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 371"
+    },
+    {
+      "id": "a372",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 372"
+    },
+    {
+      "id": "a373",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 373"
+    },
+    {
+      "id": "a374",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 374"
+    },
+    {
+      "id": "a375",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 375"
+    },
+    {
+      "id": "a376",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 376"
+    },
+    {
+      "id": "a377",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 377"
+    },
+    {
+      "id": "a378",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 378"
+    },
+    {
+      "id": "a379",
+      "tipo": "precepto",
+      "fecha_caducidad": "20091112",
+      "titulo": "Art 379"
+    },
+    {
+      "id": "tprimero-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "TÍTULO PRIMERO"
+    },
+    {
+      "id": "a573",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 573"
+    },
+    {
+      "id": "a574",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 574"
+    },
+    {
+      "id": "a575",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 575"
+    },
+    {
+      "id": "a576",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 576"
+    },
+    {
+      "id": "a577",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 577"
+    },
+    {
+      "id": "a578",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 578"
+    },
+    {
+      "id": "a579",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 579"
+    },
+    {
+      "id": "a580",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 580"
+    },
+    {
+      "id": "a581",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 581"
+    },
+    {
+      "id": "a582",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 582"
+    },
+    {
+      "id": "a583",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 583"
+    },
+    {
+      "id": "a584",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 584"
+    },
+    {
+      "id": "a585",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 585"
+    },
+    {
+      "id": "tii-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "TÍTULO II"
+    },
+    {
+      "id": "sprimera-9",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección primera"
+    },
+    {
+      "id": "a586",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 586"
+    },
+    {
+      "id": "a587",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 587"
+    },
+    {
+      "id": "a588",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 588"
+    },
+    {
+      "id": "a589",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 589"
+    },
+    {
+      "id": "a590",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 590"
+    },
+    {
+      "id": "a591",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 591"
+    },
+    {
+      "id": "a592",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 592"
+    },
+    {
+      "id": "a593",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 593"
+    },
+    {
+      "id": "a594",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 594"
+    },
+    {
+      "id": "a595",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 595"
+    },
+    {
+      "id": "a596",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 596"
+    },
+    {
+      "id": "a597",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 597"
+    },
+    {
+      "id": "a598",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 598"
+    },
+    {
+      "id": "a599",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 599"
+    },
+    {
+      "id": "a600",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 600"
+    },
+    {
+      "id": "a601",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 601"
+    },
+    {
+      "id": "a602",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 602"
+    },
+    {
+      "id": "a603",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 603"
+    },
+    {
+      "id": "a604",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 604"
+    },
+    {
+      "id": "a605",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 605"
+    },
+    {
+      "id": "a606",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 606"
+    },
+    {
+      "id": "a607",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 607"
+    },
+    {
+      "id": "a608",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 608"
+    },
+    {
+      "id": "ssegunda-9",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección segunda"
+    },
+    {
+      "id": "a609",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 609"
+    },
+    {
+      "id": "a610",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 610"
+    },
+    {
+      "id": "a611",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 611"
+    },
+    {
+      "id": "a612",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 612"
+    },
+    {
+      "id": "a613",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 613"
+    },
+    {
+      "id": "a614",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 614"
+    },
+    {
+      "id": "a615",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 615"
+    },
+    {
+      "id": "a616",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 616"
+    },
+    {
+      "id": "a617",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 617"
+    },
+    {
+      "id": "a618",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 618"
+    },
+    {
+      "id": "a619",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 619"
+    },
+    {
+      "id": "a620",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 620"
+    },
+    {
+      "id": "a621",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 621"
+    },
+    {
+      "id": "a622",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 622"
+    },
+    {
+      "id": "a623",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 623"
+    },
+    {
+      "id": "a624",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 624"
+    },
+    {
+      "id": "a625",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 625"
+    },
+    {
+      "id": "stercera-6",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección tercera"
+    },
+    {
+      "id": "a626",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 626"
+    },
+    {
+      "id": "a627",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 627"
+    },
+    {
+      "id": "a628",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 628"
+    },
+    {
+      "id": "a629",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 629"
+    },
+    {
+      "id": "a630",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 630"
+    },
+    {
+      "id": "a631",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 631"
+    },
+    {
+      "id": "a632",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 632"
+    },
+    {
+      "id": "a633",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 633"
+    },
+    {
+      "id": "a634",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 634"
+    },
+    {
+      "id": "a635",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 635"
+    },
+    {
+      "id": "a636",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 636"
+    },
+    {
+      "id": "a637",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 637"
+    },
+    {
+      "id": "a638",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 638"
+    },
+    {
+      "id": "a639",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 639"
+    },
+    {
+      "id": "a640",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 640"
+    },
+    {
+      "id": "a641",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 641"
+    },
+    {
+      "id": "a642",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 642"
+    },
+    {
+      "id": "a643",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 643"
+    },
+    {
+      "id": "a644",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 644"
+    },
+    {
+      "id": "a645",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 645"
+    },
+    {
+      "id": "a646",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 646"
+    },
+    {
+      "id": "a647",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 647"
+    },
+    {
+      "id": "a648",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 648"
+    },
+    {
+      "id": "scuaa",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección cuarta"
+    },
+    {
+      "id": "a649",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 649"
+    },
+    {
+      "id": "a650",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 650"
+    },
+    {
+      "id": "a651",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 651"
+    },
+    {
+      "id": "tiii-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "TÍTULO III"
+    },
+    {
+      "id": "sprimera-10",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección primera"
+    },
+    {
+      "id": "S1",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 1"
+    },
+    {
+      "id": "a652",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 652"
+    },
+    {
+      "id": "a653",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 653"
+    },
+    {
+      "id": "a654",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 654"
+    },
+    {
+      "id": "a655",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 655"
+    },
+    {
+      "id": "a656",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 656"
+    },
+    {
+      "id": "a657",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 657"
+    },
+    {
+      "id": "a658",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 658"
+    },
+    {
+      "id": "a659",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 659"
+    },
+    {
+      "id": "a660",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 660"
+    },
+    {
+      "id": "a661",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 661"
+    },
+    {
+      "id": "a662",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 662"
+    },
+    {
+      "id": "a663",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 663"
+    },
+    {
+      "id": "a664",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 664"
+    },
+    {
+      "id": "a665",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 665"
+    },
+    {
+      "id": "a666",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 666"
+    },
+    {
+      "id": "a667",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 667"
+    },
+    {
+      "id": "a668",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 668"
+    },
+    {
+      "id": "S2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 2"
+    },
+    {
+      "id": "a669",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 669"
+    },
+    {
+      "id": "a670",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 670"
+    },
+    {
+      "id": "a671",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 671"
+    },
+    {
+      "id": "a672",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 672"
+    },
+    {
+      "id": "a673",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 673"
+    },
+    {
+      "id": "a674",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 674"
+    },
+    {
+      "id": "a675",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 675"
+    },
+    {
+      "id": "a676",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 676"
+    },
+    {
+      "id": "a677",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 677"
+    },
+    {
+      "id": "a678",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 678"
+    },
+    {
+      "id": "S3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 3"
+    },
+    {
+      "id": "a679",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 679"
+    },
+    {
+      "id": "a680",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 680"
+    },
+    {
+      "id": "a681",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 681"
+    },
+    {
+      "id": "a682",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 682"
+    },
+    {
+      "id": "a683",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 683"
+    },
+    {
+      "id": "a684",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 684"
+    },
+    {
+      "id": "a685",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 685"
+    },
+    {
+      "id": "a686",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 686"
+    },
+    {
+      "id": "a687",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 687"
+    },
+    {
+      "id": "S4",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 4"
+    },
+    {
+      "id": "a688",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 688"
+    },
+    {
+      "id": "a689",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 689"
+    },
+    {
+      "id": "a690",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 690"
+    },
+    {
+      "id": "a691",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 691"
+    },
+    {
+      "id": "a692",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 692"
+    },
+    {
+      "id": "S5",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 5"
+    },
+    {
+      "id": "a693",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 693"
+    },
+    {
+      "id": "a694",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 694"
+    },
+    {
+      "id": "a695",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 695"
+    },
+    {
+      "id": "a696",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 696"
+    },
+    {
+      "id": "a697",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 697"
+    },
+    {
+      "id": "a698",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 698"
+    },
+    {
+      "id": "a699",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 699"
+    },
+    {
+      "id": "a700",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 700"
+    },
+    {
+      "id": "a701",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 701"
+    },
+    {
+      "id": "a702",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 702"
+    },
+    {
+      "id": "a703",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 703"
+    },
+    {
+      "id": "a704",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 704"
+    },
+    {
+      "id": "a705",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 705"
+    },
+    {
+      "id": "S6",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 6"
+    },
+    {
+      "id": "a706",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 706"
+    },
+    {
+      "id": "a707",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 707"
+    },
+    {
+      "id": "a708",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 708"
+    },
+    {
+      "id": "a709",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 709"
+    },
+    {
+      "id": "a710",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 710"
+    },
+    {
+      "id": "a711",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 711"
+    },
+    {
+      "id": "a712",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 712"
+    },
+    {
+      "id": "a713",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 713"
+    },
+    {
+      "id": "a714",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 714"
+    },
+    {
+      "id": "a715",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 715"
+    },
+    {
+      "id": "a716",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 716"
+    },
+    {
+      "id": "a717",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 717"
+    },
+    {
+      "id": "a718",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 718"
+    },
+    {
+      "id": "ssegunda-10",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección segunda"
+    },
+    {
+      "id": "a719",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 719"
+    },
+    {
+      "id": "a720",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 720"
+    },
+    {
+      "id": "a721",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 721"
+    },
+    {
+      "id": "a722",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 722"
+    },
+    {
+      "id": "a723",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 723"
+    },
+    {
+      "id": "a724",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 724"
+    },
+    {
+      "id": "a725",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 725"
+    },
+    {
+      "id": "a726",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 726"
+    },
+    {
+      "id": "a727",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 727"
+    },
+    {
+      "id": "a728",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 728"
+    },
+    {
+      "id": "a729",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 729"
+    },
+    {
+      "id": "a730",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 730"
+    },
+    {
+      "id": "a731",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 731"
+    },
+    {
+      "id": "a732",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 732"
+    },
+    {
+      "id": "a733",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 733"
+    },
+    {
+      "id": "a734",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 734"
+    },
+    {
+      "id": "a735",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 735"
+    },
+    {
+      "id": "a736",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 736"
+    },
+    {
+      "id": "stercera-7",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección tercera"
+    },
+    {
+      "id": "S1-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 1"
+    },
+    {
+      "id": "a737",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 737"
+    },
+    {
+      "id": "a738",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 738"
+    },
+    {
+      "id": "a739",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 739"
+    },
+    {
+      "id": "a740",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 740"
+    },
+    {
+      "id": "a741",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 741"
+    },
+    {
+      "id": "a742",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 742"
+    },
+    {
+      "id": "S2-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 2"
+    },
+    {
+      "id": "a743",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 743"
+    },
+    {
+      "id": "a744",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 744"
+    },
+    {
+      "id": "a745",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 745"
+    },
+    {
+      "id": "a746",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 746"
+    },
+    {
+      "id": "a747",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 747"
+    },
+    {
+      "id": "a748",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 748"
+    },
+    {
+      "id": "a749",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 749"
+    },
+    {
+      "id": "a750",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 750"
+    },
+    {
+      "id": "a751",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 751"
+    },
+    {
+      "id": "a752",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 752"
+    },
+    {
+      "id": "a753",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 753"
+    },
+    {
+      "id": "a754",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 754"
+    },
+    {
+      "id": "S3-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 3"
+    },
+    {
+      "id": "a755",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 755"
+    },
+    {
+      "id": "a756",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 756"
+    },
+    {
+      "id": "a757",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 757"
+    },
+    {
+      "id": "a758",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 758"
+    },
+    {
+      "id": "a759",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 759"
+    },
+    {
+      "id": "a760",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 760"
+    },
+    {
+      "id": "a761",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 761"
+    },
+    {
+      "id": "a762",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 762"
+    },
+    {
+      "id": "a763",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 763"
+    },
+    {
+      "id": "a764",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 764"
+    },
+    {
+      "id": "a765",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 765"
+    },
+    {
+      "id": "a766",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 766"
+    },
+    {
+      "id": "a767",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 767"
+    },
+    {
+      "id": "a768",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 768"
+    },
+    {
+      "id": "a769",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 769"
+    },
+    {
+      "id": "a770",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 770"
+    },
+    {
+      "id": "a771",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 771"
+    },
+    {
+      "id": "a772",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 772"
+    },
+    {
+      "id": "a773",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 773"
+    },
+    {
+      "id": "a774",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 774"
+    },
+    {
+      "id": "a775",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 775"
+    },
+    {
+      "id": "a776",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 776"
+    },
+    {
+      "id": "a777",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 777"
+    },
+    {
+      "id": "a778",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 778"
+    },
+    {
+      "id": "a779",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 779"
+    },
+    {
+      "id": "a780",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 780"
+    },
+    {
+      "id": "S4-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 4"
+    },
+    {
+      "id": "a781",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 781"
+    },
+    {
+      "id": "a782",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 782"
+    },
+    {
+      "id": "a783",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 783"
+    },
+    {
+      "id": "a784",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 784"
+    },
+    {
+      "id": "a785",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 785"
+    },
+    {
+      "id": "a786",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 786"
+    },
+    {
+      "id": "a787",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 787"
+    },
+    {
+      "id": "a788",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 788"
+    },
+    {
+      "id": "S5-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "§ 5"
+    },
+    {
+      "id": "a789",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 789"
+    },
+    {
+      "id": "a790",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 790"
+    },
+    {
+      "id": "a791",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 791"
+    },
+    {
+      "id": "a792",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 792"
+    },
+    {
+      "id": "a793",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 793"
+    },
+    {
+      "id": "a794",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 794"
+    },
+    {
+      "id": "a795",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 795"
+    },
+    {
+      "id": "a796",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 796"
+    },
+    {
+      "id": "a797",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 797"
+    },
+    {
+      "id": "a798",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 798"
+    },
+    {
+      "id": "a799",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 799"
+    },
+    {
+      "id": "a800",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 800"
+    },
+    {
+      "id": "a801",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 801"
+    },
+    {
+      "id": "a802",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 802"
+    },
+    {
+      "id": "a803",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 803"
+    },
+    {
+      "id": "a804",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 804"
+    },
+    {
+      "id": "a805",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 805"
+    },
+    {
+      "id": "tiv-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "TÍTULO IV"
+    },
+    {
+      "id": "sprimera-11",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección primera"
+    },
+    {
+      "id": "a806",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 806"
+    },
+    {
+      "id": "a807",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 807"
+    },
+    {
+      "id": "a808",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 808"
+    },
+    {
+      "id": "a809",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 809"
+    },
+    {
+      "id": "a810",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 810"
+    },
+    {
+      "id": "a811",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 811"
+    },
+    {
+      "id": "a812",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 812"
+    },
+    {
+      "id": "a813",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 813"
+    },
+    {
+      "id": "a814",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 814"
+    },
+    {
+      "id": "a815",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 815"
+    },
+    {
+      "id": "a816",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 816"
+    },
+    {
+      "id": "a817",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 817"
+    },
+    {
+      "id": "a818",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 818"
+    },
+    {
+      "id": "ssegunda-11",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección segunda"
+    },
+    {
+      "id": "a819",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 819"
+    },
+    {
+      "id": "a820",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 820"
+    },
+    {
+      "id": "a821",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 821"
+    },
+    {
+      "id": "a822",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 822"
+    },
+    {
+      "id": "a823",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 823"
+    },
+    {
+      "id": "a824",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 824"
+    },
+    {
+      "id": "a825",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 825"
+    },
+    {
+      "id": "stercera-8",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección tercera"
+    },
+    {
+      "id": "a826",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 826"
+    },
+    {
+      "id": "a827",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 827"
+    },
+    {
+      "id": "a828",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 828"
+    },
+    {
+      "id": "a829",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 829"
+    },
+    {
+      "id": "a830",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 830"
+    },
+    {
+      "id": "a831",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 831"
+    },
+    {
+      "id": "a832",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 832"
+    },
+    {
+      "id": "a833",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 833"
+    },
+    {
+      "id": "a834",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 834"
+    },
+    {
+      "id": "a835",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 835"
+    },
+    {
+      "id": "a836",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 836"
+    },
+    {
+      "id": "a837",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 837"
+    },
+    {
+      "id": "a838",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 838"
+    },
+    {
+      "id": "a839",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 839"
+    },
+    {
+      "id": "scuaa-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección cuarta"
+    },
+    {
+      "id": "a840",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 840"
+    },
+    {
+      "id": "a841",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 841"
+    },
+    {
+      "id": "a842",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 842"
+    },
+    {
+      "id": "a843",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 843"
+    },
+    {
+      "id": "a844",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 844"
+    },
+    {
+      "id": "a845",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 845"
+    },
+    {
+      "id": "tv-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "TÍTULO V"
+    },
+    {
+      "id": "sprimera-12",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección primera"
+    },
+    {
+      "id": "a846",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 846"
+    },
+    {
+      "id": "a847",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 847"
+    },
+    {
+      "id": "a848",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 848"
+    },
+    {
+      "id": "a849",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 849"
+    },
+    {
+      "id": "a850",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 850"
+    },
+    {
+      "id": "ssegunda-12",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección segunda"
+    },
+    {
+      "id": "a851",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 851"
+    },
+    {
+      "id": "a852",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 852"
+    },
+    {
+      "id": "a853",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 853"
+    },
+    {
+      "id": "a854",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 854"
+    },
+    {
+      "id": "a855",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 855"
+    },
+    {
+      "id": "a856",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 856"
+    },
+    {
+      "id": "a857",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 857"
+    },
+    {
+      "id": "a858",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 858"
+    },
+    {
+      "id": "a859",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 859"
+    },
+    {
+      "id": "a860",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 860"
+    },
+    {
+      "id": "a861",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 861"
+    },
+    {
+      "id": "a862",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 862"
+    },
+    {
+      "id": "a863",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 863"
+    },
+    {
+      "id": "a864",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 864"
+    },
+    {
+      "id": "a865",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 865"
+    },
+    {
+      "id": "a866",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 866"
+    },
+    {
+      "id": "a867",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 867"
+    },
+    {
+      "id": "a868",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 868"
+    },
+    {
+      "id": "stercera-9",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20140725",
+      "titulo": "Sección tercera"
+    },
+    {
+      "id": "a869",
+      "tipo": "precepto",
+      "fecha_caducidad": "20140725",
+      "titulo": "Art 869"
+    },
+    {
+      "id": "sprimera-13",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección primera"
+    },
+    {
+      "id": "a870",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 870"
+    },
+    {
+      "id": "a871",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 871"
+    },
+    {
+      "id": "a872",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 872"
+    },
+    {
+      "id": "a873",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 873"
+    },
+    {
+      "id": "ssegunda-13",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección segunda"
+    },
+    {
+      "id": "a874",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 874"
+    },
+    {
+      "id": "a875",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 875"
+    },
+    {
+      "id": "a876",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 876"
+    },
+    {
+      "id": "a877",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 877"
+    },
+    {
+      "id": "a878",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 878"
+    },
+    {
+      "id": "a879",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 879"
+    },
+    {
+      "id": "a880",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 880"
+    },
+    {
+      "id": "a881",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 881"
+    },
+    {
+      "id": "a882",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 882"
+    },
+    {
+      "id": "a883",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 883"
+    },
+    {
+      "id": "a884",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 884"
+    },
+    {
+      "id": "a885",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 885"
+    },
+    {
+      "id": "stercera-10",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección tercera"
+    },
+    {
+      "id": "a886",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 886"
+    },
+    {
+      "id": "a887",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 887"
+    },
+    {
+      "id": "a888",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 888"
+    },
+    {
+      "id": "a889",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 889"
+    },
+    {
+      "id": "a890",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 890"
+    },
+    {
+      "id": "a891",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 891"
+    },
+    {
+      "id": "a892",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 892"
+    },
+    {
+      "id": "a893",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 893"
+    },
+    {
+      "id": "a894",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 894"
+    },
+    {
+      "id": "a895",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 895"
+    },
+    {
+      "id": "a896",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 896"
+    },
+    {
+      "id": "a897",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 897"
+    },
+    {
+      "id": "scuaa-3",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección cuarta"
+    },
+    {
+      "id": "a898",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 898"
+    },
+    {
+      "id": "a899",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 899"
+    },
+    {
+      "id": "a900",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 900"
+    },
+    {
+      "id": "a901",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 901"
+    },
+    {
+      "id": "a902",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 902"
+    },
+    {
+      "id": "a903",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 903"
+    },
+    {
+      "id": "a904",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 904"
+    },
+    {
+      "id": "a905",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 905"
+    },
+    {
+      "id": "a906",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 906"
+    },
+    {
+      "id": "a907",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 907"
+    },
+    {
+      "id": "squinta-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección quinta"
+    },
+    {
+      "id": "a908",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 908"
+    },
+    {
+      "id": "a909",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 909"
+    },
+    {
+      "id": "a910",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 910"
+    },
+    {
+      "id": "a911",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 911"
+    },
+    {
+      "id": "a912",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 912"
+    },
+    {
+      "id": "a913",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 913"
+    },
+    {
+      "id": "a914",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 914"
+    },
+    {
+      "id": "a915",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 915"
+    },
+    {
+      "id": "a916",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 916"
+    },
+    {
+      "id": "a917",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 917"
+    },
+    {
+      "id": "a918",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 918"
+    },
+    {
+      "id": "a919",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 919"
+    },
+    {
+      "id": "ssexta-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección sexta"
+    },
+    {
+      "id": "a920",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 920"
+    },
+    {
+      "id": "a921",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 921"
+    },
+    {
+      "id": "a922",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 922"
+    },
+    {
+      "id": "sseptima-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección séptima"
+    },
+    {
+      "id": "a923",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 923"
+    },
+    {
+      "id": "a924",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 924"
+    },
+    {
+      "id": "a925",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 925"
+    },
+    {
+      "id": "a926",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 926"
+    },
+    {
+      "id": "a927",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 927"
+    },
+    {
+      "id": "a928",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 928"
+    },
+    {
+      "id": "a929",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 929"
+    },
+    {
+      "id": "soctava-2",
+      "tipo": "encabezado",
+      "fecha_caducidad": "20030710",
+      "titulo": "Sección octava"
+    },
+    {
+      "id": "a930",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 930"
+    },
+    {
+      "id": "a931",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 931"
+    },
+    {
+      "id": "a932",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 932"
+    },
+    {
+      "id": "a933",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 933"
+    },
+    {
+      "id": "a934",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 934"
+    },
+    {
+      "id": "a935",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 935"
+    },
+    {
+      "id": "a936",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 936"
+    },
+    {
+      "id": "a937",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 937"
+    },
+    {
+      "id": "a938",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 938"
+    },
+    {
+      "id": "a939",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 939"
+    },
+    {
+      "id": "a940",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 940"
+    },
+    {
+      "id": "a941",
+      "tipo": "precepto",
+      "fecha_caducidad": "20030710",
+      "titulo": "Art 941"
+    }
+  ],
+  "grouped_repealed_ranges": [
+    "art6",
+    "art7",
+    "art8",
+    "art9",
+    "art10",
+    "art11",
+    "art12",
+    "as6473",
+    "as7480",
+    "as100105",
+    "art123",
+    "as151157",
+    "art158-159",
+    "as160168",
+    "art238",
+    "as349379",
+    "as380438",
+    "as443530",
+    "as531543",
+    "as573a869",
+    "as870941",
+    "art951",
+    "art952",
+    "art953",
+    "art954"
+  ],
+  "preserved_historical_xml": "sources/boe-api.xml"
+}

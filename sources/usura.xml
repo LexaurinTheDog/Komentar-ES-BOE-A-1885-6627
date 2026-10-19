@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251216T102453Z</fecha_actualizacion>
+      <identificador>BOE-A-1908-5579</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="4835">Ministerio de Gracia y Justicia</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>19080723</fecha_disposicion>
+      <titulo>Ley de 23 de julio de 1908 sobre nulidad de los contratos de préstamos usurarios.</titulo>
+      <diario>Gaceta de Madrid</diario>
+      <fecha_publicacion>19080724</fecha_publicacion>
+      <diario_numero>206</diario_numero>
+      <fecha_vigencia>19080813</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/l/1908/07/23/(1)</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1908-5579</url_html_consolidada>
+    </metadatos>
+    <analisis>
+      <materias>
+        <materia codigo="1664">Contratos</materia>
+        <materia codigo="5680">Préstamos</materia>
+        <materia codigo="5703">Procedimiento administrativo</materia>
+      </materias>
+      <referencias>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2000-323</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 2, 8, 12 y 13, por Ley 1/2000, de 7 de enero</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+    <metadata-eli xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+        <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)">
+          <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+          <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+          <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1908-5579</eli:id_local>
+          <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-23</eli:date_document>
+          <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+          <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+          <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5680"/>
+          <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+          <eli:has_member>
+            <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof">
+              <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+              <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+              <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1908-5579</eli:id_local>
+              <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-23</eli:date_document>
+              <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5680"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+              <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+              <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)"/>
+              <eli:consolidated_by rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108"/>
+              <eli:consolidated_by rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724"/>
+              <eli:is_realized_by>
+                <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa">
+                  <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                  <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley de 23 de julio de 1908 sobre nulidad de los contratos de préstamos usurarios.</eli:title>
+                  <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                  <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-24</eli:date_publication>
+                  <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof"/>
+                  <eli:is_embodied_by>
+                    <eli:Format rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa/html">
+                      <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                      <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa"/>
+                    </eli:Format>
+                  </eli:is_embodied_by>
+                  <eli:is_embodied_by>
+                    <eli:Format rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa/pdf">
+                      <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                      <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa"/>
+                    </eli:Format>
+                  </eli:is_embodied_by>
+                  <eli:is_embodied_by>
+                    <eli:Format rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa/xml">
+                      <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                      <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof/spa"/>
+                    </eli:Format>
+                  </eli:is_embodied_by>
+                </eli:LegalExpression>
+              </eli:is_realized_by>
+            </eli:LegalResource>
+          </eli:has_member>
+          <eli:has_member>
+            <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108">
+              <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+              <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+              <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1908-5579</eli:id_local>
+              <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-23</eli:date_document>
+              <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5680"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+              <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/con"/>
+              <eli:version_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-08</eli:version_date>
+              <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)"/>
+              <eli:consolidates rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof"/>
+              <eli:is_realized_by>
+                <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108/spa">
+                  <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                  <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley de 23 de julio de 1908 sobre nulidad de los contratos de préstamos usurarios.</eli:title>
+                  <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                  <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108"/>
+                  <eli:is_embodied_by>
+                    <eli:Format rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108/spa/html">
+                      <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                      <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/20000108/spa"/>
+                    </eli:Format>
+                  </eli:is_embodied_by>
+                </eli:LegalExpression>
+              </eli:is_realized_by>
+            </eli:LegalResource>
+          </eli:has_member>
+          <eli:has_member>
+            <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724">
+              <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+              <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+              <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1908-5579</eli:id_local>
+              <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-23</eli:date_document>
+              <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5680"/>
+              <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+              <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/con"/>
+              <eli:version_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-07-24</eli:version_date>
+              <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)"/>
+              <eli:consolidates rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/dof"/>
+              <eli:is_realized_by>
+                <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724/spa">
+                  <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                  <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley de 23 de julio de 1908 sobre nulidad de los contratos de préstamos usurarios.</eli:title>
+                  <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                  <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724"/>
+                  <eli:is_embodied_by>
+                    <eli:Format rdf:about="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724/spa/html">
+                      <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                      <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1908/07/23/(1)/con/19080724/spa"/>
+                    </eli:Format>
+                  </eli:is_embodied_by>
+                </eli:LegalExpression>
+              </eli:is_realized_by>
+            </eli:LegalResource>
+          </eli:has_member>
+        </eli:LegalResource>
+      </rdf:RDF>
+    </metadata-eli>
+    <texto>
+      <bloque id="preambulo" tipo="preambulo">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="parrafo_2">DON ALFONSO XIII, por la gracia de Dios y la Constitución Rey de España;</p>
+          <p class="parrafo">A todos los que la presente vieren y entendieren, sabed: que las Cortes han aprobado y Nós sancionado lo siguiente:</p>
+        </version>
+      </bloque>
+      <bloque id="a1" tipo="precepto" titulo="Art 1">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 1.</p>
+          <p class="parrafo">Será nulo todo contrato de préstamo en que se estipule un interés notablemente superior al normal del dinero y manifiestamente desproporcionado con las circunstancias del caso o en condiciones tales que resulte aquél leonino, habiendo motivos para estimar que ha sido aceptado por el prestatario a causa de su situación angustiosa, de su inexperiencia o de lo limitado de sus facultades mentales.</p>
+          <p class="parrafo">Será igualmente nulo el contrato en que se suponga recibida mayor cantidad que la verdaderamente entregada, cualesquiera que sean su entidad y circunstancias. Será también nula la renuncia del fuero propio, dentro de la población, hecha por el deudor en esta clase de contratos.</p>
+        </version>
+      </bloque>
+      <bloque id="a2" tipo="precepto" titulo="Art 2">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 2.</p>
+          <p class="parrafo">Los Tribunales resolverán en cada caso, formando libremente su convicción en vista de las alegaciones de las partes.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo 2.</p>
+          <p class="parrafo">
+            <strong>(Derogado)</strong>
+          </p>
+          <blockquote>
+            <p class="nota_pie">Se deroga por la disposición derogatoria única.2.4 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a>.</p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="a3" tipo="precepto" titulo="Art 3">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 3.</p>
+          <p class="parrafo">Declarada con arreglo a esta ley la nulidad de un contrato, el prestatario estará obligado a entregar tan sólo la suma recibida; y si hubiera satisfecho parte de aquélla y los intereses vencidos, el prestamista devolverá al prestatario lo que, tomando en cuenta el total de lo percibido, exceda del capital prestado.</p>
+        </version>
+      </bloque>
+      <bloque id="a4" tipo="precepto" titulo="Art 4">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 4.</p>
+          <p class="parrafo">Si el contrato cuya nulidad se declara por virtud de esta Iey es de fecha anterior a su promulgación, se procederá a liquidar el total de lo recibido por el prestamista en pago del capital prestado e intereses vencidos; y si dicha cantidad iguala o excede al capital o interés normal del dinero, se obligará al prestamista a entregar carta de pago total y a favor del prestatario, sea cual fuera la forma en que conste el derecho del prestamista.</p>
+          <p class="parrafo">Si la cantidad es menor que dichos capital e interés normal, la deuda se contraerá a la suma que falte, la que devengará el interés legal correspondiente hasta su completo pago, y si no se hubiere satisfecho por el prestatario cantidad alguna, se reducirá la obligación al pago de la suma recibida y el interés normal.</p>
+        </version>
+      </bloque>
+      <bloque id="a5" tipo="precepto" titulo="Art 5">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 5.</p>
+          <p class="parrafo">A todo prestamista a quien, conforme a los preceptos de esta ley, se anulen tres o más contratos de préstamos hechos con posterioridad a la promulgación de la misma, se le impondrá como corrección disciplinaria una multa de 500 a 5.000 pesetas, según la gravedad del abuso y el grado de reincidencia del prestamista.</p>
+        </version>
+      </bloque>
+      <bloque id="a6" tipo="precepto" titulo="Art 6">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 6.</p>
+          <p class="parrafo">Esta corrección será impuesta por el mismo Tribunal que declare la nulidad del contrato de préstamo.</p>
+        </version>
+      </bloque>
+      <bloque id="a7" tipo="precepto" titulo="Art 7">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 7.</p>
+          <p class="parrafo">A los efectos de lo que dispone el art. 5.º de esta ley, el Ministerio de Gracia y Justicia, en vista de los antecedentes que deberán remitirle los Tribunales, formará un Registro Central de contratos de préstamos declarados nulos, con expresión en cada caso del prestamista contra quien se dictó la sentencia. La Dirección general de los Registros expedirá las certificaciones que de las inscripciones del Registro Central expresado reclamen los Tribunales, de oficio o a instancia de parte.</p>
+        </version>
+      </bloque>
+      <bloque id="a8" tipo="precepto" titulo="Art 8">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 8.</p>
+          <p class="parrafo">Toda sentencia declarando nulo, con arreglo a esta ley, un contrato de préstamo, llevará anexa expresa condenación de costas, las que habrán de imponerse al prestamista.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo 8.</p>
+          <p class="parrafo">
+            <strong>(Derogado)</strong>
+          </p>
+          <blockquote>
+            <p class="nota_pie">Se deroga por la disposición derogatoria única.2.4 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a>.</p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="a9" tipo="precepto" titulo="Art 9">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 9.</p>
+          <p class="parrafo">Lo dispuesto por esta ley se aplicará a toda operación sustancialmente equivalente a un préstamo de dinero, cualesquiera que sea la forma que revista el contrato y la garantía que para su cumplimiento se haya ofrecido.</p>
+        </version>
+      </bloque>
+      <bloque id="a10" tipo="precepto" titulo="Art 10">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 10.</p>
+          <p class="parrafo">El prestamista que contrate con un menor se supondrá que sabía que lo era, a menos que pruebe haber tenido motivos racionales y suficientes para creer que era mayor de edad.</p>
+        </version>
+      </bloque>
+      <bloque id="a11" tipo="precepto" titulo="Art 11">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 11.</p>
+          <p class="parrafo">El que no pudiendo tratar con persona incapacitada legalmente para contraer obligaciones intente ligarlo al cumplimiento de una, mediante un compromiso de honor u otro procedimiento análogo, incurrirá en la pena que marca el art. 5.º, de la presente ley, impuesta siempre, según los casos, en su grado máximo.</p>
+        </version>
+      </bloque>
+      <bloque id="a12" tipo="precepto" titulo="Art 12">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 12.</p>
+          <p class="parrafo">Para entender en las demandas en que se pida la nulidad de los contratos a que se refiere esta ley serán los competentes los Jueces de primera instancia, cualquiera que sea la cuantía del préstamo, y se tramitarán los litigios, según las reglas del procedimiento vigente, en relación con su cuantía, y en los que no exceda de 500 pesetas, admitirán para ante la Audiencia territorial respectiva las apelaciones que se entablen en el tiempo y forma que establece la ley de Justicia municipal respecto de las sentencias recaídas en los juicios verbales. Estas apelaciones se sustanciarán en la forma establecida para los incidentes.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo 12.</p>
+          <p class="parrafo">
+            <strong>(Derogado)</strong>
+          </p>
+          <blockquote>
+            <p class="nota_pie">Se deroga por la disposición derogatoria única.2.4 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a>.</p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="a13" tipo="precepto" titulo="Art 13">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 13.</p>
+          <p class="parrafo">El ejercicio de la acción de nulidad no detendrá la tramitación del juicio ejecutivo sino después de verificado el embargo de bienes.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo 13.</p>
+          <p class="parrafo">
+            <strong>(Derogado)</strong>
+          </p>
+          <blockquote>
+            <p class="nota_pie">Se deroga por la disposición derogatoria única.2.4 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a>.</p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="a14" tipo="precepto" titulo="Art 14">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 14.</p>
+          <p class="parrafo">Las manifestaciones que se hicieren en los contratos declarados nulos conforme a esta ley, simulando garantías ilusorias o alterando la fecha de la obligación, para dar a ésta una eficacia de que sin eso carecería, podrán determinar responsabilidad criminal en los casos previstos en el Código penal para los prestamistas siempre, y para los prestatarios cuando por las circunstancias del contrato y la resultancia del juicio lo estime procedente el Tribunal.</p>
+        </version>
+      </bloque>
+      <bloque id="a15" tipo="precepto" titulo="Art 15">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 15.</p>
+          <p class="parrafo">Los establecimientos de préstamos sobre prendas se regirán por las leyes o Reglamentos especiales dictados o que se dicten.</p>
+        </version>
+      </bloque>
+      <bloque id="a16" tipo="precepto" titulo="Art 16">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="articulo">Artículo 16.</p>
+          <p class="parrafo">Quedan derogadas cuantas leyes, decretos y disposiciones se opongan a la presente, en aquella parte a que dicha oposición se contraiga.</p>
+        </version>
+      </bloque>
+      <bloque id="firma" tipo="firma">
+        <version id_norma="BOE-A-1908-5579" fecha_publicacion="19080724" fecha_vigencia="19080813">
+          <p class="parrafo_2">Por tanto:</p>
+          <p class="parrafo_2">Mandamos a todos los Tribunales, Jefes, Gobernadores y demás Autoridades, así civiles como militares y eclesiásticas, de cualquier clase y dignidad que sean, que guarden y hagan guardar, cumplir y ejecutar la presente ley en todas sus partes.</p>
+          <p class="parrafo_2">Dado en San Ildefonso a veintitrés de Julio de mil novecientos ocho.</p>
+          <p class="firma_rey">YO EL REY</p>
+          <p class="firma_ministro">El Ministro de Gracia y Justicia,</p>
+          <p class="firma_ministro">JUAN ARMADA LOSADA.</p>
+        </version>
+      </bloque>
+    </texto>
+  </data>
+</response>

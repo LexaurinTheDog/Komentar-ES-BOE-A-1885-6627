@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7391",
+    "path": "sources/jurisdiccion-voluntaria.xml",
+    "accessed_at": "2026-10-19T17:53:06.317317+00:00",
+    "http_status": 200,
+    "sha256": "ec4217db67f771807f87c9d2f5253cf2ce24eaf922b4488c498b8a2900cced76",
+    "format_validated": "XML response/status/code=200"
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-10544",
+    "path": "sources/sociedades-capital.xml",
+    "accessed_at": "2026-10-19T17:53:07.408001+00:00",
+    "http_status": 200,
+    "sha256": "6e9739f50d74e220a4a2b5d7f5724ef4144a158b7d0d896924ffefaec104e7e0",
+    "format_validated": "XML response/status/code=200"
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10074",
+    "path": "sources/emprendedores.xml",
+    "accessed_at": "2026-10-19T17:53:08.214649+00:00",
+    "http_status": 200,
+    "sha256": "19b1bc91b50ceb74a719eb9e35d13fc661f24c787df63922ac04d719aa4053aa",
+    "format_validated": "XML response/status/code=200"
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1908-5579",
+    "path": "sources/usura.xml",
+    "accessed_at": "2026-10-19T17:53:08.515490+00:00",
+    "http_status": 200,
+    "sha256": "8514b82d4ad3836fc775b5dfec57084b2a295dfba36c68b5bfb6085d2d21f27b",
+    "format_validated": "XML response/status/code=200"
+  }
+]

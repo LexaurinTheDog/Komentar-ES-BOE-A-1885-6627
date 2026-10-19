@@ -1,0 +1,22 @@
+# INDEX — Comentario al Código de Comercio español
+
+- [00-introduccion.md](00-introduccion.md) — Alcance, método y lectura temporal
+- [01-comentario-01.md](01-comentario-01.md) — Capítulo 01: Artículo 1 – Art 16
+- [02-comentario-02.md](02-comentario-02.md) — Capítulo 02: Art 17 – Art 36
+- [03-comentario-03.md](03-comentario-03.md) — Capítulo 03: Art 37 – Art 54
+- [04-comentario-04.md](04-comentario-04.md) — Capítulo 04: Art 55 – Art 89
+- [05-comentario-05.md](05-comentario-05.md) — Capítulo 05: Art 90 – Art 114
+- [06-comentario-06.md](06-comentario-06.md) — Capítulo 06: Art 115 – Art 134
+- [07-comentario-07.md](07-comentario-07.md) — Capítulo 07: Art 135 – Art 169
+- [08-comentario-08.md](08-comentario-08.md) — Capítulo 08: Art 170 – Art 189
+- [09-comentario-09.md](09-comentario-09.md) — Capítulo 09: Art 190 – Art 209
+- [10-comentario-10.md](10-comentario-10.md) — Capítulo 10: Art 210 – Art 229
+- [11-comentario-11.md](11-comentario-11.md) — Capítulo 11: Art 230 – Art 249
+- [12-comentario-12.md](12-comentario-12.md) — Capítulo 12: Art 250 – Art 269
+- [13-comentario-13.md](13-comentario-13.md) — Capítulo 13: Art 270 – Art 289
+- [14-comentario-14.md](14-comentario-14.md) — Capítulo 14: Art 290 – Art 309
+- [15-comentario-15.md](15-comentario-15.md) — Capítulo 15: Art 310 – Art 329
+- [16-comentario-16.md](16-comentario-16.md) — Capítulo 16: Art 330 – Arts 349-379
+- [17-comentario-17.md](17-comentario-17.md) — Capítulo 17: Arts. 380-438 – Art 556
+- [18-comentario-18.md](18-comentario-18.md) — Capítulo 18: Art 557 – Art 943
+- [19-comentario-19.md](19-comentario-19.md) — Capítulo 19: Art 944 – Art 955

@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1885-6627",
+    "path": "sources/review-metadata.xml",
+    "accessed_at": "2026-10-19T18:02:48.349897+00:00",
+    "http_status": 200,
+    "sha256": "3c9d5648a6cfaeb475abfdef0645d3d7480488a8de21ede32162641d49b1d66f",
+    "bytes": 1086826,
+    "format_validated": "XML response status 200 and substantive bloque elements",
+    "identical_to_author_source": true
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1885-6627/texto",
+    "path": "sources/review-text.xml",
+    "accessed_at": "2026-10-19T18:02:49.260939+00:00",
+    "http_status": 200,
+    "sha256": "465ece190e3a3c9c9976627de85487c2b4a7681bb6d5ea6f7045aa736ea08c7e",
+    "bytes": 963906,
+    "format_validated": "XML response status 200 and substantive bloque elements",
+    "identical_to_author_source": true
+  },
+  {
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627",
+    "path": "sources/review-current.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:06:59.370249+00:00",
+    "sha256": "efefda055f255b697a4e354b242ad27d8233202ea13f6e40a532f0cd002a6789",
+    "bytes": 683465,
+    "format_validated": "Expected complete official HTML, substantive case grounds/ECLI or act article955"
+  },
+  {
+    "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/1054",
+    "path": "sources/review-tc113-1988.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:06:59.317138+00:00",
+    "sha256": "b36f48f19a1fcee93a2051d696b716feb77750dfc8998f30b6d194fcfd1b08da",
+    "bytes": 49941,
+    "format_validated": "Expected complete official HTML, substantive case grounds/ECLI or act article955"
+  },
+  {
+    "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/6700",
+    "path": "sources/review-tc61-2010.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:06:59.369641+00:00",
+    "sha256": "7a39dc647945e912683d48117dc7479925b789e39a352cb6cc7baf778a0f1392",
+    "bytes": 56670,
+    "format_validated": "Expected complete official HTML, substantive case grounds/ECLI or act article955"
+  }
+]

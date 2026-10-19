@@ -1,0 +1,17 @@
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+ETag: hj
+Server: Microsoft-IIS/10.0
+Set-Cookie: ASP.NET_SessionId=j2osoeja5qejuo2ypbfsh4sj; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=j2osoeja5qejuo2ypbfsh4sj; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: iHJ.MvcLocalization.CurrentUICulture=es-ES; expires=Tue, 19-Oct-2027 18:06:59 GMT; path=/
+X-Powered-By: ASP.NET
+Strict-Transport-Security: max-age=31536000
+X-UA-Compatible: IE=Edge,chrome=1
+Access-Control-Allow-Origin: *
+Date: Mon, 19 Oct 2026 18:06:59 GMT
+Connection: close
+Content-Length: 56670
+

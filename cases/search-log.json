@@ -2,11 +2,41 @@
   "date": "2026-10-19",
   "scope": "Investigación selectiva de garantías constitucionales en jurisdicción voluntaria mercantil; no repertorio exhaustivo civil o mercantil",
   "searches": [
-    {"query":"site.poderjudicial.es codigo comercio 325 244 2016 sentencia","tool":"Firecrawl search","evidence":"sources/cases-search.json","outcome":"Consulta inicial de escasa precisión; devolvió portales, sin texto de sentencia apto para citar. No se atribuye doctrina al Tribunal Supremo."},
-    {"query":"site:hj.tribunalconstitucional.es Código de Comercio contabilidad","tool":"Firecrawl search","evidence":"sources/tc-search.json","outcome":"Identificó STC 113/1988 y STC 61/2010; ambos textos íntegros leídos en corpus local y contrastados con HTML oficial."},
-    {"query":"site:hj.tribunalconstitucional.es Código de Comercio art. 32","tool":"Firecrawl search","evidence":"sources/tc32-search.json","outcome":"Resultados no seleccionados como autoridad material sobre exhibición; no se infieren conclusiones del fragmento de búsqueda."},
-    {"query":"Código de Comercio en corpus TC 2023-2025","tool":"rg local","outcome":"Localizada STC 175/2025 sobre pagos fraccionados fiscales. Solo inspección inicial; excluida de las autoridades porque no se completó lectura íntegra y su pertinencia mercantil era indirecta."}
+    {
+      "query": "site.poderjudicial.es codigo comercio 325 244 2016 sentencia",
+      "tool": "Firecrawl search",
+      "evidence": "sources/cases-search.json",
+      "outcome": "Consulta inicial de escasa precisión; devolvió portales, sin texto de sentencia apto para citar. No se atribuye doctrina al Tribunal Supremo."
+    },
+    {
+      "query": "site:hj.tribunalconstitucional.es Código de Comercio contabilidad",
+      "tool": "Firecrawl search",
+      "evidence": "sources/tc-search.json",
+      "outcome": "Identificó STC 113/1988 y STC 61/2010; ambos textos íntegros leídos en corpus local y contrastados con HTML oficial."
+    },
+    {
+      "query": "site:hj.tribunalconstitucional.es Código de Comercio art. 32",
+      "tool": "Firecrawl search",
+      "evidence": "sources/tc32-search.json",
+      "outcome": "Resultados no seleccionados como autoridad material sobre exhibición; no se infieren conclusiones del fragmento de búsqueda."
+    },
+    {
+      "query": "Código de Comercio en corpus TC 2023-2025",
+      "tool": "rg local",
+      "outcome": "Localizada STC 175/2025 sobre pagos fraccionados fiscales. Solo inspección inicial; excluida de las autoridades porque no se completó lectura íntegra y su pertinencia mercantil era indirecta."
+    },
+    {
+      "query": "site:poderjudicial.es \"342\" \"reclamación\" \"Código de Comercio\"",
+      "tool": "Firecrawl search",
+      "date": "2026-10-19",
+      "evidence": "sources/review-ts342-search.json",
+      "outcome": "Segunda revisión: resultados de legislación y recopilación doctrinal, sin sentencia íntegra seleccionable. No se incorpora doctrina sustantiva a partir de fragmentos ni se declara búsqueda exhaustiva."
+    }
   ],
-  "selected": ["TC-113-1988", "TC-61-2010"],
-  "not_verified": "No se incorpora jurisprudencia sustantiva del Tribunal Supremo sobre compraventa, comisión o prescripción; no se presentan esas materias como objeto de una búsqueda exhaustiva. Para unidades técnicas y derogadas no se seleccionó una decisión suficientemente pertinente y verificada."
+  "selected": [
+    "TC-113-1988",
+    "TC-61-2010"
+  ],
+  "not_verified": "No se incorpora jurisprudencia sustantiva del Tribunal Supremo sobre compraventa, comisión o prescripción; no se presentan esas materias como objeto de una búsqueda exhaustiva. Para unidades técnicas y derogadas no se seleccionó una decisión suficientemente pertinente y verificada.",
+  "second_pass": "Relectura íntegra de las dos decisiones seleccionadas y contraste de 17 y 13 párrafos de antecedentes/fundamentos con HTML oficial nuevo; fallo revisado materialmente."
 }

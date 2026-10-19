@@ -56,7 +56,7 @@ El riesgo de menoscabos pasa al comprador cuando el contrato está perfeccionado
 >
 > 3.º Si el contrato tuviere la condición de no hacer la entrega hasta que la cosa vendida adquiera las condiciones estipuladas.
 
-El vendedor soporta daños incluso fortuitos cuando falta determinación e individualización, cuando existe facultad previa de examen por pacto o uso o cuando entrega queda condicionada a adquirir características estipuladas. Son excepciones al esquema del art. 333 y exigen examinar el estado exacto de ejecución. Por ejemplo, vender cien unidades de una masa todavía no separada puede plantear riesgo distinto del lote individualizado y aceptado. Una reserva de ensayo no debe ignorarse para adelantar el traslado del riesgo. La documentación de pesaje, marcas, examen y cumplimiento de condiciones permite determinar cuándo deja de operar cada supuesto, sin confundir propiedad, entrega y riesgo.
+El vendedor soporta daños incluso fortuitos en ventas por número, peso o medida o cuando falta una cosa cierta y determinada con marcas y señales identificativas, cuando existe facultad previa de examen por pacto o uso o cuando entrega queda condicionada a adquirir características estipuladas. Son excepciones al esquema del art. 333 y exigen examinar el estado exacto de ejecución. Por ejemplo, vender cien unidades de una masa todavía no separada puede plantear riesgo distinto del lote individualizado y aceptado. Una reserva de ensayo no debe ignorarse para adelantar el traslado del riesgo. La documentación de pesaje, marcas, examen y cumplimiento de condiciones permite determinar cuándo deja de operar cada supuesto, sin confundir propiedad, entrega y riesgo.
 
 ### Art 335
 
@@ -106,7 +106,7 @@ Salvo pacto expreso contrario, el vendedor soporta gastos hasta poner los géner
 >
 > Este se constituirá depositario de los efectos vendidos y que­dará obligado a su custodia y conservación según las Leyes del ­depósito.
 
-La obligación de precio nace con puesta a disposición y satisfacción del comprador o depósito judicial del art. 332, al contado o según plazos pactados. Si los efectos quedan con el vendedor, este pasa a custodiar como depositario. Por ejemplo, aceptar un lote y pedir que permanezca unos días en almacén puede separar exigibilidad del precio de retirada física. Deben probarse aceptación y disponibilidad, sin darlas por supuestas por emitir factura. La custodia mantiene deberes de conservación y explica la excepción del art. 331. El impago no permite descuidar el lote ni convertir automáticamente el depósito en apropiación de las mercancías.
+La puesta a disposición con satisfacción del comprador o el depósito judicial del art. 332 sitúan el deber de pagar: al contado si esa es la modalidad convenida, o respetando los vencimientos pactados. El artículo no debe confundirse con la perfección del contrato, que puede ser anterior. Si los efectos quedan con el vendedor, este pasa a custodiar como depositario. Por ejemplo, aceptar un lote y pedir que permanezca unos días en almacén puede separar exigibilidad del precio de retirada física. Deben probarse aceptación y disponibilidad, sin darlas por supuestas por emitir factura. La custodia mantiene deberes de conservación y explica la excepción del art. 331. El impago no permite descuidar el lote ni convertir automáticamente el depósito en apropiación de las mercancías.
 
 ### Art 340
 

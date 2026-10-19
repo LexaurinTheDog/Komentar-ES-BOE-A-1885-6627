@@ -76,7 +76,7 @@ La reserva de responsabilidad del representante no exige confundir negligencia e
 
 > Ningún socio podrá exigir la entrega del haber que le corresponda en la división de la masa social, mientras no se hallen extinguidas todas las deudas y obligaciones de la compañía, o no se haya depositado su importe, si la entrega no se pudiere verificar de presente.
 
-La cuota de liquidación queda subordinada a extinguir las deudas o depositar su importe si no puede hacerse entrega de presente. La norma impide vaciar el patrimonio social en favor de socios dejando acreedores sin cobertura. Por ejemplo, una deuda conocida pero todavía discutida exige estudiar su provisión o depósito en el cauce aplicable, no ignorarla para repartir toda la caja. La cifra contable de patrimonio neto no demuestra por sí sola que el haber sea libremente distribuible. Deben conciliarse créditos, vencimientos, pagos y garantías antes de ejecutar la división del art. 232, con atención al régimen específico del tipo y a posibles procedimientos de insolvencia.
+La cuota de liquidación queda subordinada a extinguir las deudas o depositar su importe si no puede hacerse entrega de presente. La norma impide vaciar el patrimonio social en favor de socios dejando acreedores sin cobertura. Por ejemplo, una deuda conocida pero todavía discutida exige resolver su tratamiento y, cuando proceda, el depósito en el cauce aplicable, no ignorarla para repartir toda la caja. Una mera provisión contable no equivale a extinguir la obligación ni a depositar su importe y no autoriza por sí sola ese reparto. La cifra contable de patrimonio neto no demuestra por sí sola que el haber sea libremente distribuible. Deben conciliarse créditos, vencimientos, pagos y garantías antes de ejecutar la división del art. 232, con atención al régimen específico del tipo y a posibles procedimientos de insolvencia.
 
 La existencia de un remanente solo aparente no autoriza su reparto si omite obligaciones conocidas de la compañía.
 
@@ -222,7 +222,7 @@ Identificar al representado permite distinguir un poder real de una invocación 
 
 Rechazar el encargo exige comunicación rápida y confirmación en los términos históricos de correo que conserva el texto. Además, quien recibió efectos debe custodiarlos diligentemente hasta nueva designación o entrega al órgano judicial a su solicitud. Rehusar no permite abandonar mercancía perecedera sin atención. Por ejemplo, un intermediario que recibe un lote no deseado debe avisar y conservarlo, aunque no quiera asumir su venta. Incumplir cualquiera de esos deberes genera indemnización por los daños causados. Debe distinguirse esa custodia provisional de la aceptación tácita del art. 249 y documentar recepción, negativa y medidas de conservación.
 
-Solicitar custodia judicial y comunicar rechazo son deberes con funciones diferentes; cumplir uno no demuestra por sí solo el otro.
+La eventual solicitud de custodia judicial no sustituye la comunicación obligatoria del rechazo. Mientras no se produzca el relevo o la recepción judicial de los efectos, subsiste el deber de custodia provisional.
 
 ### Art 249
 

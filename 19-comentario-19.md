@@ -54,7 +54,7 @@ El primer plazo es de tres años para acciones socio-sociedad y toma separación
 >
 > La prescripción en provecho del socio que formaba parte de la sociedad en el momento de su disolución, no se interrumpirá por los procedimientos judiciales seguidos contra otro socio, pero sí por los seguidos contra los liquidadores.
 
-La interrupción se individualiza según posición del socio. Para separado o excluido con publicidad del art. 947, procedimientos contra sociedad u otro socio no interrumpen en su beneficio; para quien era socio al disolverse, el procedimiento contra otro no interrumpe, pero el seguido contra liquidadores sí en los términos del texto. Por ejemplo, demandar a la compañía no permite presumir que se conserva idénticamente toda acción contra quien ya salió. Deben fijarse demandado, calidad del socio y fecha registral. La regla no autoriza a omitir las normas especiales aplicables a cada responsabilidad ni a trasladar sin análisis efectos procesales entre patrimonios distintos.
+La interrupción se individualiza según posición del socio. En el caso del socio separado o excluido con publicidad del art. 947, los procedimientos contra la sociedad u otro socio no interrumpen la prescripción que corre a favor del socio separado o excluido; para quien era socio al disolverse, el procedimiento contra otro no interrumpe, pero el seguido contra liquidadores sí en los términos del texto. Por ejemplo, demandar a la compañía no permite presumir que se conserva idénticamente toda acción contra quien ya salió. Deben fijarse demandado, calidad del socio y fecha registral. La regla no autoriza a omitir las normas especiales aplicables a cada responsabilidad ni a trasladar sin análisis efectos procesales entre patrimonios distintos.
 
 ### Art 949
 

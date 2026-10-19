@@ -1,0 +1,90 @@
+{
+  "complete": true,
+  "units_reviewed": 372,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit": "art29",
+      "issue": "Se atribuía al apartado2 una redacción en euros inexistente.",
+      "correction": "Diferenciadas las pesetas literales de presentación en euros34.5 y moneda económica38.h.",
+      "resolved": true
+    },
+    {
+      "unit": "art33",
+      "issue": "Auxiliares técnicos atribuidos al órgano judicial.",
+      "correction": "Identificado el solicitante como titular de la facultad y el juez como controlador de forma/número.",
+      "resolved": true
+    },
+    {
+      "unit": "art43",
+      "issue": "Porcentajes y plazo de dispensa descritos de modo excesivamente general.",
+      "correction": "Explicitados 50 %, 10 % y seis meses, con el resto de requisitos.",
+      "resolved": true
+    },
+    {
+      "unit": "art48",
+      "issue": "No se precisaba el umbral de otras participaciones.",
+      "correction": "Añadido 5 % del capital para la cuarta indicación.",
+      "resolved": true
+    },
+    {
+      "unit": "art49",
+      "issue": "Comentario demasiado comprimido para la extensión de apartados5–7.",
+      "correction": "Ampliados ámbitos, condiciones temporales, materias/indicadores, subgrupo e informe separado; conservada extensión Ley11/2018.",
+      "resolved": true
+    },
+    {
+      "unit": "art138",
+      "issue": "Frase final podía reducir permiso a actividad competidora.",
+      "correction": "Precisada negociación externa aunque no sea competidora.",
+      "resolved": true
+    },
+    {
+      "unit": "art218",
+      "issue": "Expresión fondos/firma propios podía invertir la titularidad.",
+      "correction": "Fondos/firma sociales para negocios propios.",
+      "resolved": true
+    },
+    {
+      "unit": "art235",
+      "issue": "Referencia a provisión podía inducir a distribuir sin pago/depósito.",
+      "correction": "Declarado que provisión contable no equivale a extinción o depósito ni autoriza reparto.",
+      "resolved": true
+    },
+    {
+      "unit": "art248",
+      "issue": "Solicitud de custodia judicial tratada como deber.",
+      "correction": "Diferenciada alternativa judicial de aviso y custodia obligatorios.",
+      "resolved": true
+    },
+    {
+      "unit": "art334",
+      "issue": "Resumen incompleto de excepción primera de riesgo.",
+      "correction": "Mencionadas ventas por número, peso o medida y falta de individualización.",
+      "resolved": true
+    },
+    {
+      "unit": "art339",
+      "issue": "Se confundía nacimiento del deber de precio con fase de pago.",
+      "correction": "Diferenciados perfección, puesta a disposición y vencimientos.",
+      "resolved": true
+    },
+    {
+      "unit": "art948",
+      "issue": "Dirección del beneficio de prescripción expresada ambiguamente.",
+      "correction": "Aclarada prescripción que corre a favor del socio separado/excluido.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Jurisprudencia selectiva: dos sentencias constitucionales de garantías procesales; no revisión exhaustiva de jurisprudencia mercantil del Tribunal Supremo.",
+    "Las referencias bancarias, laborales, concesionales, de valores y de derecho internacional conservan límites sectoriales expresos; no se verificó integralmente toda norma especial posible.",
+    "Segunda lectura editorial y jurídica del manuscrito, sin aprobación profesional externa ni dictamen sobre un litigio concreto.",
+    "El cuerpo del primer error HTTP400 del proceso de autor no fue conservado. No se usa como fuente; las respuestas exitosas originales y nuevas están archivadas."
+  ],
+  "reviewed_at": "2026-10-19T18:09:00.634964+00:00",
+  "decisive_date": "2026-10-19",
+  "review_basis": "Fresh second process; every commentary and selected statutory text read in ordered batches, then external sources and both complete court decisions checked.",
+  "ledger": "second-pass-ledger.json",
+  "source_checks": "second-pass-source-check.json"
+}

@@ -1,6 +1,6 @@
 {
-  "relative_links_checked": 73,
+  "relative_links_checked": 86,
   "broken_links": [],
-  "external_links": "Official source URLs fetched as listed in verification.json; project GitHub profile not used as legal authority",
+  "external_links": "Official URLs fetched as in sources/verification.json; selective search logged; non-authority project profile not tested",
   "ok": true
 }

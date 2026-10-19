@@ -1,8 +1,7 @@
 {
   "official_source": {
     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627",
-    "local_raw_evidence_path": "sources/boe-current.html",
-    "xml_path": "sources/boe-api.xml"
+    "local_raw_evidence_path": "sources/review-current.html"
   },
   "expected_ids": [
     "a1",
@@ -754,8 +753,8 @@
   ],
   "annex_disposition": [
     {
-      "result": "No annex or separate final/transitional provision exists in current official structure; four promulgating decree articles a1–a4 retained. Repealed numbered ranges retained under their official grouped IDs.",
-      "evidence": "All 879 XML blocks and all current HTML bloque IDs enumerated; tipos: nota_inicial, preambulo, firma, encabezado, precepto."
+      "result": "No annex or separate additional, final or transitional disposition in the complete current HTML structure; a1–a4 promulgating decree retained. All grouped repeals retained.",
+      "evidence": "Enumerated every current HTML bloque and every heading; independent articulo-class inventory, without XML block types."
     }
   ],
   "expanded_code_slots": [
@@ -1724,22 +1723,28 @@
   "missing_ids": [],
   "duplicate_ids": [],
   "source_hashes": {
-    "boe-api.xml": "465ece190e3a3c9c9976627de85487c2b4a7681bb6d5ea6f7045aa736ea08c7e",
-    "boe-current.html": "4358aea9fc73af5fd64806e3da936bf4177ab114e7760456af5d5a7161197a4e",
-    "canonical.md": "8c259ba4c91a6f864faf4133d7ad0aef2b3655921e0e0ca75b6dd30f7496bc68",
-    "emprendedores.xml": "19b1bc91b50ceb74a719eb9e35d13fc661f24c787df63922ac04d719aa4053aa",
-    "intake-20261002.md": "3953b8716b32dfdc19d4ccdcbf22409cd2617d3e29e65bb47e215ce7a3e32dd4",
-    "jurisdiccion-voluntaria.xml": "ec4217db67f771807f87c9d2f5253cf2ce24eaf922b4488c498b8a2900cced76",
-    "law11-2018.xml": "4030862f44e789a7e6cfa3d38bf510e63a19b6a8f0be3b2a53fc705042642b54",
-    "law55-1999.xml": "e7bf0a896b44f2d7ff64d33130af56deced0ef9d74f182f17a6c23d3a1490f1e",
-    "metadata.xml": "3c9d5648a6cfaeb475abfdef0645d3d7480488a8de21ede32162641d49b1d66f",
-    "reform-2023.xml": "3f9e984c9c0b89e35f7f0cf869c3fb67c91bb4b887429ab7c0089fb3d66fbe94",
-    "sociedades-capital.xml": "6e9739f50d74e220a4a2b5d7f5724ef4144a158b7d0d896924ffefaec104e7e0",
-    "tc113-1988-local.md": "c0339b707c4c80df2ad466180def88701ade5bccdd2b183d770b2de729f8926f",
-    "tc113-1988.html": "b36f48f19a1fcee93a2051d696b716feb77750dfc8998f30b6d194fcfd1b08da",
-    "tc61-2010-local.md": "f66930238ee6547f8cfb866e15919a93373e0c2566d588d1892acf91c4ab23db",
-    "tc61-2010.html": "7a39dc647945e912683d48117dc7479925b789e39a352cb6cc7baf778a0f1392",
-    "usura.xml": "8514b82d4ad3836fc775b5dfec57084b2a295dfba36c68b5bfb6085d2d21f27b"
+    "sources/boe-api.xml": "465ece190e3a3c9c9976627de85487c2b4a7681bb6d5ea6f7045aa736ea08c7e",
+    "sources/boe-current.html": "4358aea9fc73af5fd64806e3da936bf4177ab114e7760456af5d5a7161197a4e",
+    "sources/canonical.md": "8c259ba4c91a6f864faf4133d7ad0aef2b3655921e0e0ca75b6dd30f7496bc68",
+    "sources/emprendedores.xml": "19b1bc91b50ceb74a719eb9e35d13fc661f24c787df63922ac04d719aa4053aa",
+    "sources/intake-20261002.md": "3953b8716b32dfdc19d4ccdcbf22409cd2617d3e29e65bb47e215ce7a3e32dd4",
+    "sources/jurisdiccion-voluntaria.xml": "ec4217db67f771807f87c9d2f5253cf2ce24eaf922b4488c498b8a2900cced76",
+    "sources/law11-2018.xml": "4030862f44e789a7e6cfa3d38bf510e63a19b6a8f0be3b2a53fc705042642b54",
+    "sources/law55-1999.xml": "e7bf0a896b44f2d7ff64d33130af56deced0ef9d74f182f17a6c23d3a1490f1e",
+    "sources/metadata.xml": "3c9d5648a6cfaeb475abfdef0645d3d7480488a8de21ede32162641d49b1d66f",
+    "sources/reform-2023.xml": "3f9e984c9c0b89e35f7f0cf869c3fb67c91bb4b887429ab7c0089fb3d66fbe94",
+    "sources/review-current.html": "efefda055f255b697a4e354b242ad27d8233202ea13f6e40a532f0cd002a6789",
+    "sources/review-metadata.xml": "3c9d5648a6cfaeb475abfdef0645d3d7480488a8de21ede32162641d49b1d66f",
+    "sources/review-tc113-1988.html": "b36f48f19a1fcee93a2051d696b716feb77750dfc8998f30b6d194fcfd1b08da",
+    "sources/review-tc61-2010.html": "7a39dc647945e912683d48117dc7479925b789e39a352cb6cc7baf778a0f1392",
+    "sources/review-text.xml": "465ece190e3a3c9c9976627de85487c2b4a7681bb6d5ea6f7045aa736ea08c7e",
+    "sources/sociedades-capital.xml": "6e9739f50d74e220a4a2b5d7f5724ef4144a158b7d0d896924ffefaec104e7e0",
+    "sources/tc113-1988-local.md": "c0339b707c4c80df2ad466180def88701ade5bccdd2b183d770b2de729f8926f",
+    "sources/tc113-1988.html": "b36f48f19a1fcee93a2051d696b716feb77750dfc8998f30b6d194fcfd1b08da",
+    "sources/tc61-2010-local.md": "f66930238ee6547f8cfb866e15919a93373e0c2566d588d1892acf91c4ab23db",
+    "sources/tc61-2010.html": "7a39dc647945e912683d48117dc7479925b789e39a352cb6cc7baf778a0f1392",
+    "sources/usura.xml": "8514b82d4ad3836fc775b5dfec57084b2a295dfba36c68b5bfb6085d2d21f27b"
   },
-  "ok": true
+  "ok": true,
+  "second_pass_evidence": "second-pass-source-check.json"
 }

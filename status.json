@@ -10,10 +10,10 @@
   "numbered_code_positions": 957,
   "promulgating_decree_articles": 4,
   "chapters": 19,
-  "commentary_chars": 272552,
+  "commentary_chars": 275397,
   "source_checks": {
     "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627",
-    "verified_at": "2026-10-19T17:59:55.267691+00:00",
+    "verified_at": "2026-10-19T18:06:59.372414+00:00",
     "http200_sources": 12,
     "xml_html_unit_matches": 372,
     "expected_current_units": 372,
@@ -23,7 +23,9 @@
     "latest_published_amendment": "2023-05-09",
     "latest_commencement": "2024-05-09",
     "original_intake_sha256": "3953b8716b32dfdc19d4ccdcbf22409cd2617d3e29e65bb47e215ce7a3e32dd4",
-    "evidence": "sources/verification.json"
+    "evidence": "sources/verification.json",
+    "second_pass_refetches": 5,
+    "second_pass_evidence": "second-pass-source-check.json"
   },
   "case_law_sources": [
     {
@@ -43,7 +45,7 @@
     "repo": "Komentar-ES-BOE-A-1885-6627",
     "units": 372,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 272552,
+    "commentary_chars": 275397,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -52,11 +54,16 @@
   "remaining_units": [],
   "unresolved_material_source_blockers": [],
   "remaining_limitations": [
-    "Independent second pass pending; author review is not independent review.",
-    "Case-law research selective and constitutional only; no exhaustive Supreme Court substantive coverage.",
-    "Concise technical and historical provisions; sectoral banking, labour, concessions, international and securities systems not exhaustively researched.",
-    "First API HTTP 400 error body not preserved; successful full XML HTTP 200 response validated and retained."
+    "Jurisprudencia selectiva: dos sentencias constitucionales de garantías procesales; no revisión exhaustiva de jurisprudencia mercantil del Tribunal Supremo.",
+    "Las referencias bancarias, laborales, concesionales, de valores y de derecho internacional conservan límites sectoriales expresos; no se verificó integralmente toda norma especial posible.",
+    "Segunda lectura editorial y jurídica del manuscrito, sin aprobación profesional externa ni dictamen sobre un litigio concreto.",
+    "El cuerpo del primer error HTTP400 del proceso de autor no fue conservado. No se usa como fuente; las respuestas exitosas originales y nuevas están archivadas."
   ],
-  "independent_review": false,
-  "publication": "Local only; no push or external submission"
+  "independent_review": true,
+  "publication": "Local only; no push or external submission",
+  "review_scope": "Second process, all372 units; no external professional approval",
+  "second_pass_completed_at": "2026-10-19T18:10:02.580512+00:00",
+  "reviewed_units": 372,
+  "review_result": "review-result.json",
+  "review_stage": "second_pass_complete"
 }

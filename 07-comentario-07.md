@@ -48,7 +48,7 @@ Un pacto especial puede restringir actividades externas más allá del giro, por
 
 La dedicación del socio industrial recibe una restricción más intensa: no puede ocuparse en negociaciones de ninguna especie sin permiso expreso. La reacción permite a los capitalistas optar entre exclusión con privación de beneficios correspondientes o apropiación de los obtenidos en la actividad prohibida. No debe acumularse automáticamente toda consecuencia sin atender a esa alternativa. Por ejemplo, un socio que aporta exclusivamente trabajo y abre paralelamente una intermediación necesita autorización expresa aunque la nueva actividad no copie exactamente el giro social. Deben probarse su condición industrial, la negociación realizada y la ausencia de permiso, además de precisar qué beneficios se reclaman.
 
-El permiso exigido es expreso: una tolerancia imprecisa no debe equipararse sin análisis a autorización del negocio competidor.
+El permiso exigido es expreso: una tolerancia imprecisa no debe equipararse sin análisis a autorización de la negociación externa, aunque no sea competidora.
 
 ### Art 139
 
